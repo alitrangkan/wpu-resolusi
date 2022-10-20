@@ -1,0 +1,12 @@
+Halo pak samal kenal nama saya alit dari bali, saya sudah lulus dari Universitas Udayana
+program studi teknologi informasi, saya pernah mendapat matakuliah web progaming, dan web programing lanjutan,
+namun dari sekian pertemuan saya masih tidak dapat memahami dari pembuatan sebuah website, saya rasa cara saya belajar masih kurang, dan motivasi masih rendah pada saat itu,
+hingga lulus dari program studi ti tapi masih awan dalam dunia website programing, saya harap kedepannya saja lebih disiplin dalam menekuni web programing, sehingga
+cita - cita saya untuk dapat bekerja disebuah perusahaan startup bisa terwujud.
+
+Resolusi saya :
+-Membuat web tampilan frontend sebuah website
+-Mempelajari website dari segi backend
+-Mempelajari framework laravel
+-Saya ingin bekerja di starup
+-
